@@ -1,0 +1,20 @@
+Use Blender Later
+
+// Idle
+// Run 
+// Action
+// Dive
+/X Draw Sword
+/X Hatch Sword
+
+// Skill 1 Earthquake
+// Skill 2 Spin
+
+// Basic Attack 1
+// Basic Attack 2
+// Basic Attack 3
+
+// Crouch
+
+Hurt
+//Dead
